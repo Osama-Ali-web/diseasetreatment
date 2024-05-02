@@ -1,4 +1,3 @@
-import blackgirl from "../assets/images/black-girl.png";
 
 function Home() {
   return (
@@ -18,7 +17,7 @@ function Home() {
       </div>
       <div className="w-1/3  bg-[length:200px_100px]">
         {" "}
-        <img src={blackgirl} alt="" />
+        <img src="black-girl.png" alt="" />
       </div>
     </div>
   );
